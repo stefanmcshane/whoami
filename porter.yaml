@@ -1,0 +1,3 @@
+app:
+  whoami-cli:
+    type: web
